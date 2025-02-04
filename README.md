@@ -1,5 +1,5 @@
 
-# Travel Buddy
+# News Buddy
 
 This project uses CrewAI to orchestrate a sophisticated News Article Generator. It fetches latest news and advancements on the given topic and writes a professoinal news article. You can even download the generated file to share it with your connections, by using the given streamlit UI.
 
